@@ -1,4 +1,4 @@
-package org.example.project.LaundryMachine;
+package com.eunseongjo.project.LaundryMachine;
 
 public class LaundryMachine {
     private boolean isOn;   //초기에는 시동이 꺼진 false 상태이다.

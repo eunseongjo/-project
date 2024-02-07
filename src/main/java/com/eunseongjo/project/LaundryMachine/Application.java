@@ -1,4 +1,4 @@
-package org.example.project.LaundryMachine;
+package com.eunseongjo.project.LaundryMachine;
 
 import java.util.Scanner;
 
