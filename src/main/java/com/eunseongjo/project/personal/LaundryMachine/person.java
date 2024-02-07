@@ -1,4 +1,4 @@
-package com.eunseongjo.project.LaundryMachine;
+package com.eunseongjo.project.personal.LaundryMachine;
 
 public class person {
 
